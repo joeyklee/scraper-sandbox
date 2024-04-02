@@ -1,5 +1,5 @@
 # Scraper Sandbox
-> For when you just need to iterate on your scraping logic outside of all the other applicaiton code!
+> For when you just need to iterate on your scraping logic outside of all the other application code!
 
 ```sh
 cd scraper-sandbox
